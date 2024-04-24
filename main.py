@@ -352,6 +352,3 @@ def draw_menu(algorithms, selected_algorithm):
 if __name__ == "__main__":
     main()
 
-
-if __name__ == "__main__":
-    main()
